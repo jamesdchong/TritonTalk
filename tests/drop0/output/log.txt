@@ -1,0 +1,566 @@
+Messages will be dropped with probability=0.000000
+Messages will be corrupted with probability=0.000000
+Available sender id(s):
+   send_id=0
+   send_id=1
+   send_id=2
+   send_id=3
+   send_id=4
+Available receiver id(s):
+   recv_id=0
+   recv_id=1
+   recv_id=2
+   recv_id=3
+   recv_id=4
+LFS is 0
+Within receiver window
+NFE 0
+end 7
+Received message
+frame seqNum 0
+lastseqnum -1
+eom is 255
+NFE after 1
+end after 8
+Successfully sent Ack 0
+LAR is 0
+LFS is 1
+Within receiver window
+NFE 1
+end 8
+Received message
+frame seqNum 1
+lastseqnum 0
+eom is 255
+NFE after 2
+end after 9
+Successfully sent Ack 1
+LAR is 1
+LFS is 2
+Within receiver window
+NFE 2
+end 9
+Received message
+frame seqNum 2
+lastseqnum 1
+eom is 255
+NFE after 3
+end after 10
+Successfully sent Ack 2
+LAR is 2
+LFS is 3
+LFS is 4
+LFS is 5
+LFS is 6
+Within receiver window
+NFE 3
+end 10
+Received message
+frame seqNum 3
+lastseqnum 2
+eom is 0
+NFE after 4
+end after 11
+Successfully sent Ack 3
+Within receiver window
+NFE 4
+end 11
+Received message
+frame seqNum 4
+lastseqnum 3
+eom is 0
+NFE after 5
+end after 12
+Successfully sent Ack 4
+Within receiver window
+NFE 5
+end 12
+Received message
+frame seqNum 5
+lastseqnum 4
+eom is 0
+NFE after 6
+end after 13
+LAR is 3
+Successfully sent Ack 5
+LAR is 4
+Within receiver window
+NFE 6
+end 13
+Received message
+frame seqNum 6
+lastseqnum 5
+eom is 255
+NFE after 7
+end after 14
+Successfully sent Ack 6
+LAR is 5
+LAR is 6
+LFS is 0
+Within receiver window
+NFE 0
+end 7
+Received message
+frame seqNum 0
+lastseqnum -1
+eom is 255
+NFE after 1
+end after 8
+Successfully sent Ack 0
+LAR is 0
+LFS is 0
+Within receiver window
+NFE 0
+end 7
+Received message
+frame seqNum 0
+lastseqnum -1
+eom is 255
+NFE after 1
+end after 8
+Successfully sent Ack 0
+LAR is 0
+LFS is 0
+Within receiver window
+NFE 0
+end 7
+Received message
+frame seqNum 0
+lastseqnum -1
+eom is 255
+NFE after 1
+end after 8
+Successfully sent Ack 0
+LAR is 0
+LFS is 0
+Within receiver window
+NFE 0
+end 7
+Received message
+frame seqNum 0
+lastseqnum -1
+eom is 255
+NFE after 1
+end after 8
+Successfully sent Ack 0
+LAR is 0
+LFS is 0
+Within receiver window
+NFE 0
+end 7
+Received message
+frame seqNum 0
+lastseqnum -1
+eom is 255
+NFE after 1
+end after 8
+Successfully sent Ack 0
+LAR is 0
+LFS is 0
+Within receiver window
+NFE 0
+end 7
+Received message
+frame seqNum 0
+lastseqnum -1
+eom is 255
+NFE after 1
+end after 8
+Successfully sent Ack 0
+LAR is 0
+LFS is 0
+Within receiver window
+NFE 0
+end 7
+Received message
+frame seqNum 0
+lastseqnum -1
+eom is 255
+NFE after 1
+end after 8
+Successfully sent Ack 0
+LAR is 0
+LFS is 0
+Within receiver window
+NFE 0
+end 7
+Received message
+frame seqNum 0
+lastseqnum -1
+eom is 255
+NFE after 1
+end after 8
+Successfully sent Ack 0
+LAR is 0
+LFS is 7
+LFS is 8
+LFS is 9
+LFS is 10
+LFS is 11
+LFS is 12
+Within receiver window
+NFE 7
+end 14
+Received message
+frame seqNum 7
+lastseqnum 6
+eom is 0
+NFE after 8
+end after 15
+Successfully sent Ack 7
+Within receiver window
+NFE 8
+end 15
+Received message
+frame seqNum 8
+lastseqnum 7
+eom is 0
+NFE after 9
+end after 16
+Successfully sent Ack 8
+Within receiver window
+NFE 9
+end 16
+Received message
+frame seqNum 9
+lastseqnum 8
+eom is 0
+NFE after 10
+end after 17
+Successfully sent Ack 9
+Within receiver window
+NFE 10
+end 17
+Received message
+frame seqNum 10
+lastseqnum 9
+eom is 0
+NFE after 11
+end after 18
+Successfully sent Ack 10
+Within receiver window
+NFE 11
+end 18
+Received message
+frame seqNum 11
+lastseqnum 10
+eom is 0
+NFE after 12
+end after 19
+Successfully sent Ack 11
+LAR is 7
+Within receiver window
+NFE 12
+end 19
+Received message
+frame seqNum 12
+lastseqnum 11
+eom is 255
+NFE after 13
+end after 20
+LAR is 8
+LAR is 9
+Successfully sent Ack 12
+LAR is 10
+LAR is 11
+LAR is 12
+LFS is 0
+LFS is 1
+LFS is 2
+LFS is 3
+LFS is 4
+Within receiver window
+NFE 0
+end 7
+Received message
+frame seqNum 0
+lastseqnum -1
+eom is 0
+NFE after 1
+end after 8
+Successfully sent Ack 0
+Within receiver window
+NFE 1
+end 8
+Received message
+frame seqNum 1
+lastseqnum 0
+eom is 0
+NFE after 2
+end after 9
+Successfully sent Ack 1
+Within receiver window
+NFE 2
+end 9
+Received message
+frame seqNum 2
+lastseqnum 1
+eom is 0
+NFE after 3
+end after 10
+Successfully sent Ack 2
+Within receiver window
+NFE 3
+end 10
+Received message
+frame seqNum 3
+lastseqnum 2
+eom is 0
+NFE after 4
+end after 11
+Successfully sent Ack 3
+Within receiver window
+NFE 4
+end 11
+Received message
+frame seqNum 4
+lastseqnum 3
+eom is 255
+NFE after 5
+end after 12
+Successfully sent Ack 4
+LAR is 0
+LAR is 1
+LAR is 2
+LAR is 3
+LAR is 4
+LFS is 0
+LFS is 1
+LFS is 2
+LFS is 3
+LFS is 4
+Within receiver window
+NFE 0
+end 7
+Received message
+frame seqNum 0
+lastseqnum -1
+eom is 0
+NFE after 1
+end after 8
+Successfully sent Ack 0
+Within receiver window
+NFE 1
+end 8
+Received message
+frame seqNum 1
+lastseqnum 0
+eom is 0
+NFE after 2
+end after 9
+Successfully sent Ack 1
+Within receiver window
+NFE 2
+end 9
+Received message
+frame seqNum 2
+lastseqnum 1
+eom is 0
+NFE after 3
+end after 10
+Successfully sent Ack 2
+LAR is 0
+LAR is 1
+Within receiver window
+NFE 3
+end 10
+Received message
+frame seqNum 3
+lastseqnum 2
+eom is 0
+NFE after 4
+end after 11
+LAR is 2
+Successfully sent Ack 3
+Within receiver window
+NFE 4
+end 11
+Received message
+frame seqNum 4
+lastseqnum 3
+eom is 255
+NFE after 5
+end after 12
+Successfully sent Ack 4
+LAR is 3
+LAR is 4
+LFS is 0
+LFS is 1
+LFS is 2
+LFS is 3
+LFS is 4
+Within receiver window
+NFE 0
+end 7
+Received message
+frame seqNum 0
+lastseqnum -1
+eom is 0
+NFE after 1
+end after 8
+Successfully sent Ack 0
+Within receiver window
+NFE 1
+end 8
+Received message
+frame seqNum 1
+lastseqnum 0
+eom is 0
+NFE after 2
+end after 9
+Successfully sent Ack 1
+Within receiver window
+NFE 2
+end 9
+Received message
+frame seqNum 2
+lastseqnum 1
+eom is 0
+NFE after 3
+end after 10
+Successfully sent Ack 2
+Within receiver window
+NFE 3
+end 10
+Received message
+frame seqNum 3
+lastseqnum 2
+eom is 0
+NFE after 4
+end after 11
+Successfully sent Ack 3
+Within receiver window
+NFE 4
+end 11
+Received message
+frame seqNum 4
+lastseqnum 3
+eom is 255
+NFE after 5
+end after 12
+Successfully sent Ack 4
+LAR is 0
+LAR is 1
+LAR is 2
+LAR is 3
+LAR is 4
+LFS is 0
+LFS is 1
+LFS is 2
+LFS is 3
+LFS is 4
+Within receiver window
+NFE 0
+end 7
+Received message
+frame seqNum 0
+lastseqnum -1
+eom is 0
+NFE after 1
+end after 8
+Successfully sent Ack 0
+Within receiver window
+NFE 1
+end 8
+Received message
+frame seqNum 1
+lastseqnum 0
+eom is 0
+NFE after 2
+end after 9
+Successfully sent Ack 1
+Within receiver window
+NFE 2
+end 9
+Received message
+frame seqNum 2
+lastseqnum 1
+eom is 0
+NFE after 3
+end after 10
+Successfully sent Ack 2
+Within receiver window
+NFE 3
+end 10
+Received message
+frame seqNum 3
+lastseqnum 2
+eom is 0
+NFE after 4
+end after 11
+Successfully sent Ack 3
+Within receiver window
+NFE 4
+end 11
+Received message
+frame seqNum 4
+lastseqnum 3
+eom is 255
+NFE after 5
+end after 12
+Successfully sent Ack 4
+LAR is 0
+LAR is 1
+LAR is 2
+LAR is 3
+LAR is 4
+LFS is 0
+Within receiver window
+NFE 0
+end 7
+Received message
+frame seqNum 0
+lastseqnum -1
+eom is 255
+NFE after 1
+end after 8
+Successfully sent Ack 0
+LAR is 0
+LFS is 0
+Within receiver window
+NFE 0
+end 7
+Received message
+frame seqNum 0
+lastseqnum -1
+eom is 255
+NFE after 1
+end after 8
+Successfully sent Ack 0
+LAR is 0
+LFS is 0
+Within receiver window
+NFE 0
+end 7
+Received message
+frame seqNum 0
+lastseqnum -1
+eom is 255
+NFE after 1
+end after 8
+Successfully sent Ack 0
+LAR is 0
+LFS is 0
+Within receiver window
+NFE 0
+end 7
+Received message
+frame seqNum 0
+lastseqnum -1
+eom is 255
+NFE after 1
+end after 8
+Successfully sent Ack 0
+LAR is 0
+LFS is 5
+Within receiver window
+NFE 5
+end 12
+Received message
+frame seqNum 5
+lastseqnum 4
+eom is 255
+NFE after 6
+end after 13
+Successfully sent Ack 5
+LAR is 5

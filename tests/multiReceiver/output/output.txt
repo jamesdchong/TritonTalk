@@ -1,0 +1,2 @@
+<RECV_0>:[hello world]
+<RECV_1>:[hello world]

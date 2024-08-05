@@ -1,0 +1,19 @@
+Messages will be dropped with probability=0.000000
+Messages will be corrupted with probability=0.000000
+Available sender id(s):
+   send_id=0
+Available receiver id(s):
+   recv_id=0
+   recv_id=1
+LFS is 0
+Within receiver window
+NFE 0
+end 7
+Received message
+frame seqNum 0
+lastseqnum -1
+eom is 255
+NFE after 1
+end after 8
+Successfully sent Ack 0
+LAR is 0
